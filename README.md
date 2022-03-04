@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SeaWeed
-- 👀 I’m interested in ... Pixel games!
-- 🌱 I’m currently learning ... Computer Science and Engineering (struggling!)
-- 💞️ I’m looking to collaborate on ... Not decided yet!
+- 👀 I’m interested in ... Pixel games
+- 🌱 I’m currently learning ... Computer Science and Engineering (struggling)
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... yorktown1781@163.com
 
 <!---
